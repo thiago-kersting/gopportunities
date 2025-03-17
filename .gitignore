@@ -1,1 +1,19 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test Binary
+
+*.Test
+
+# Coverage
+
+*.out
+
+Db folder
+
+db/
+
 go.sum
